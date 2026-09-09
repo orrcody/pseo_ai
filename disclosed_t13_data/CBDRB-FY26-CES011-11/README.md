@@ -1,0 +1,1 @@
+This directory contains the disclosed results protected by the U.S. Census Bureau's disclosure avoidance handbook. The Census Bureau has ensured appropriate access and use of confidential data and has reviewed these results for disclosure avoidance protection (Project Number 7517475: CBDRB-FY26-CES011-011).
