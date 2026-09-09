@@ -5,4 +5,4 @@ This repository contains the data used in "Graduating into Disruption: Labor Mar
 
 The recommended citation for this paper is:
 
-Orr, Cody, and Lee C. Tucker, and Lawrence Warren. (2026). "Graduating into Disruption: Labor Market Outcomes for AI-Exposed College Majors". CES Working Paper Series No. [TBD]. U.S. Census Bureau. 
+Orr, Cody, and Lee C. Tucker, and Lawrence Warren. (2026). _Graduating into Disruption: Labor Market Outcomes for AI-Exposed College Majors_. (CES Working Paper Series No. CES-26-56). U.S. Census Bureau. Center for Economic Studies. https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html
